@@ -1,0 +1,13 @@
+streamlit
+google-genai
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+faiss-cpu
+sentence-transformers
+pdf2image
+python-dotenv
+Pillow
+sqlalchemy
+pytesseract
+boto3
