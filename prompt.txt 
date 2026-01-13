@@ -1,0 +1,9 @@
+Ok, now these are the requirements ;
+
+1. I want the initial demo to take the invoice details from the downloaded invoices, and store them in the sqllite db.
+2. I want these details to be put the in the initial email, like we are doing in our current process.
+3. Upon recieving the email with the invoices attached, I want the agent to go through the email and check which invoices 
+    and which invoices are not recieved, then the reply should be drafted, about the invoices that are missing.
+
+
+    The most important thing here is that we do not repeat asking for the same invoice again.
